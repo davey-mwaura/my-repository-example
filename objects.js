@@ -1,6 +1,6 @@
 const employee = {
-    name:"",
-    streetAddress: "",
+    name:"David",
+    streetAddress: "Nairobi",
 
 };
 
