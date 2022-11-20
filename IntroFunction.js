@@ -11,5 +11,3 @@ function sayHiToGrandma(words){
 };
 
 
-
-sayHiToGrandma("yeah")
