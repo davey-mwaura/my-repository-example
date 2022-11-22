@@ -9,4 +9,4 @@ function scuberGreetingForFeet(distance){
     {console.log('good morning,buckle in for a fun ride')}
 }
 
-scuberGreetingForFeet(200)
+
